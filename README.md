@@ -2,6 +2,8 @@
 
 👋 Hi, I’m Athuman Katuga (KatJnr89)—an entry-level cybersecurity practitioner with hands-on experience in vulnerability assessment, web application testing, log analysis, and security automation. I am detail-oriented, motivated to learn, and bring strong customer service and time management skills, along with a commitment to protecting information systems and supporting secure digital environments.
 
+## Objectives
+Motivated entry-level cybersecurity professional seeking to apply hands-on skills to safeguard sensitive information and support secure digital environments where users and organizations can operate safely and confidently.
 ---
 
 ## Quick links
